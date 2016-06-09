@@ -6,7 +6,7 @@ Unity Projectのテンプレートフォルダを自動生成してくれるEdit
 
 ## Set up
 
-GenerateTemplateDirectory.unitypackageを任意のProjectにインポートしてください。
+`GenerateTemplateDirectory.unitypackage` を任意のProjectにインポートしてください。
 
 ## Usage
 
