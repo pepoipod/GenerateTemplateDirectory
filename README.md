@@ -1,5 +1,7 @@
 # GenerateTemplateDirectory
 
+![https://gyazo.com/aae6fbdf42d117cfdd29d6e0ee2c4d49](https://i.gyazo.com/aae6fbdf42d117cfdd29d6e0ee2c4d49.png)
+
 Unity Projectのテンプレートフォルダを自動生成してくれるEditor拡張です。
 
 ## Set up
